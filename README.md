@@ -1,18 +1,19 @@
-# 🧠 Training Projects Repository
+# 🧠 Spring Boot Test Project
 
-Welcome to my **Training Projects Repository** — a collection of hands-on exercises, experiments, and learning projects created to explore and strengthen my skills in software development.  
-Each folder represents a different topic or mini-project I’ve worked on, featuring technologies such as **Java**, **Spring Boot**, **PostgreSQL**, and **JPA**.
+Welcome to my **Spring Boot Test** project — a hands-on exercise created to explore and strengthen my skills in backend development.
+
+This project is a functional application designed to experiment with **Spring Boot** mechanics, database integration via **PostgreSQL**, and data persistence using **JPA**.
 
 ---
 
-## 📁 Projects Index
+## 🚀 Project Overview
 
-Below is a list of all the projects currently in this repository.  
-Click on any project name to open its respective folder.
+This application focuses on the following core concepts:
 
-### 🚀 Current Projects
-
-- [**spring-boot**](./spring-boot) — Starter Spring Boot application with PostgreSQL integration and JPA entities.
+- **REST API Development:** Building endpoints to handle HTTP requests.
+- **Database Integration:** Connecting to a PostgreSQL database.
+- **Data Persistence:** Using JPA (Hibernate) for Object-Relational Mapping.
+- **Dependency Management:** Utilizing Maven for build automation.
 
 ---
 
@@ -28,7 +29,6 @@ Click on any project name to open its respective folder.
 ---
 
 ### 🔸 About the `.vscode` Folder
-The `.vscode` folder is **not required** to run any of the projects.  
+The `.vscode` folder included in this project is **not required** to run the application.  
 It simply stores local settings for **Visual Studio Code**, such as build configuration prompts and null analysis options.  
 You can safely delete it if you use another IDE (e.g., IntelliJ or Eclipse) or prefer to keep your repo clean.
-
